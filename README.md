@@ -1,5 +1,5 @@
 ![Header](https://github.com/chapaevRus/chapaevRus/blob/main/assets/header.png)
-## <div> Frontend developer <div>
+// ## <div> Frontend developer <div>
 
 ### Владею:
 
