@@ -1,4 +1,3 @@
-![Header](https://github.com/chapaevRus/chapaevRus/blob/main/assets/header.png)
 ## Frontend developer
 
 ### Владею:
